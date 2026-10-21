@@ -11,8 +11,10 @@ This repository contains the complete 404200 proposal, presentation and service 
 - [Digital growth proposal](./AMSA_Digital_Growth_Proposal.docx)
 - [Core services presentation](./AMSA_Core_Services_Presentation.pptx)
 - [Editable service agreement](./AMSA_Service_Agreement_Editable.docx)
-- [Digital service agreement](./AMSA_Service_Agreement_Digital.pdf)
+- [Digital fillable service agreement](./AMSA_Service_Agreement_Digital.pdf)
 - [Print service agreement](./AMSA_Service_Agreement_Print.pdf)
+- [Client access and content checklist - editable](./AMSA_Client_Access_and_Content_Checklist.docx)
+- [Client access and content checklist - PDF](./AMSA_Client_Access_and_Content_Checklist.pdf)
 
 ## Opening the files
 
@@ -21,4 +23,4 @@ This repository contains the complete 404200 proposal, presentation and service 
 - Open the presentation in Microsoft PowerPoint or a compatible presentation application.
 - The PDF agreements open directly in a modern browser or PDF reader.
 
-Prepared by 404200 on 20 October 2026.
+Prepared by 404200 and updated on 21 October 2026.
